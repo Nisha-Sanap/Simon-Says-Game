@@ -47,7 +47,7 @@ After failure:
 ## 🖼️ Snapshots
 
 ### 🔹 Home Screen
- ![home screen](home.png)
+ ![home screen](home(3).png)
 ### 🔹 Game Screen
   ![game start](Game_start.png)
 
