@@ -47,7 +47,7 @@ After failure:
 ## 🖼️ Snapshots
 
 ### 🔹 Home Screen
- ![home screen]([home (3).png](https://github.com/Nisha-Sanap/Simon-Says-Game/blob/173cb626b0e1cba7c877502f755abb678b016719/home%20(3).png))
+     ![Home Screen](Home_page.png)
 ### 🔹 Game Screen
   ![game start](Game_start.png)
 
