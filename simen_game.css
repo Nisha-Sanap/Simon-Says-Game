@@ -1,0 +1,80 @@
+
+/* body{
+    text-align:center;
+}
+.btn{
+    width:200px;
+    height:200px;
+    border:10px solid black;
+    border-radius:20%;
+    margin:2.5rem;
+}
+
+.box-container{
+    display:flex;
+    justify-content:center;
+
+}
+.red{
+    background-color:#d95980;
+}
+.yellow{
+    background-color:#f99b45;
+}
+.purple{
+    background-color:#093fe2
+}
+.green{
+    background-color:#038a3c;
+}
+.flash{
+    background-color:white;
+}
+.userflash{
+    background-color:green;
+} */
+
+body{
+    text-align:center;
+    background-color: rgb(234, 246, 124);
+}
+
+.btn{
+    width:200px;
+    height:200px;
+    border:10px solid black;
+    border-radius:20%;
+    margin:2.5rem;
+    transition: 0.2s;
+}
+
+.box-container{
+    display:flex;
+    justify-content:center;
+}
+
+.red{
+    background-color:#d95980;
+}
+.yellow{
+    background-color:#f99b45;
+}
+.purple{
+    background-color:#093fe2;
+}
+.green{
+    background-color:#038a3c;
+}
+
+/* Game flash */
+.flash{
+    background-color:white !important;
+    box-shadow:0 0 30px white;
+    transform:scale(1.05);
+}
+
+/* User click flash */
+.userflash{
+    filter:brightness(1.5);
+    transform:scale(1.05);
+}
